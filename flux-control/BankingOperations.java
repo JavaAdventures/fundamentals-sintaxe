@@ -25,7 +25,7 @@ public class BankingOperations {
         0 - Encerrar
         """;
 
-while (true) {
+    while (true) {
       System.out.println(menu);
       int option = sc.nextInt();
       switch (option) {
@@ -61,7 +61,6 @@ while (true) {
       }
       
     }
-  }
-  
+  }  
 }
 
